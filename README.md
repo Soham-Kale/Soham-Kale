@@ -30,11 +30,6 @@
             alt="sohamkale3014" height="30" width="40" /></a>
 </p>
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vivekkalp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vk__22_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-kalpavruksha) [![Static Badge](https://img.shields.io/badge/CodeChef-%23008184?style=plastic&logo=CodeChef&color=%235B4638)](https://www.codechef.com/users/vivek_k098)
-
-
-
 
 ### 👨‍💻 Programming languages
 
@@ -81,9 +76,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>&nbsp;
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-%23008184?style=for-the-badge&logo=Arduino&labelColor=%23008184"></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek8446&show_icons=true&locale=en" alt="vivek8446" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek8446&" alt="vivek8446" /></p>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=soham-kale&show_icons=true&locale=en&layout=compact"
