@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham-kale&label=Profile%20views&color=0e75b6&style=flat"
         alt="soham-kale" /> </p>
 
-- 🌱 I'm a React Developer with 1.5 Years of work experience.
+- 🌱 I'm a Software Engineer with 2+ years of experience building production-grade web and mobile applications using React, React Native, and TypeScript.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soham-Kale](https://github.com/Soham-Kale)
 
