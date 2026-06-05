@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Soham Kale</h1>
-<h3 align="center">A passionate Mobile Applications Developer from India</h3>
+<h3 align="center">A Passionate Mobile Applications Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham-kale&label=Profile%20views&color=0e75b6&style=flat"
         alt="soham-kale" /> </p>
 
-- 🌱 I'm a Software Engineer with 2+ years of experience building production-grade web and mobile applications using React, React Native, and TypeScript.
+- 🌱 I'm a Software Engineer with 2+ years of experience building production-grade web and Mobile Applications using React, React Native, and TypeScript.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soham-Kale](https://github.com/Soham-Kale)
 
